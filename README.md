@@ -1,4 +1,4 @@
-# GLB Intelligence UI
+# Sample Applicaiton use Next.js
 
 ## Overview
 
